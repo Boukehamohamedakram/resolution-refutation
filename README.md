@@ -4,7 +4,7 @@
 
 Ce site web propose une expérience fluide et intuitive, accessible directement en ligne, sans installation, combinant **puissance algorithmique** et **interface moderne**.
 
-🔗 **Accéder à l'outil** : [Logic Solver en ligne](https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app)
+🔗 **Accéder à l'outil** : [Logic Solver en ligne]([https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app](https://684a1562dc8bb429a2b7a9eb--velvety-nasturtium-55678b.netlify.app))
 
 ---
 
@@ -27,7 +27,7 @@ Ce site web propose une expérience fluide et intuitive, accessible directement 
 Aucune installation requise.
 
 Accédez simplement au site et commencez à manipuler vos formules logiques :  
-👉 [https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app](https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app)
+👉 [[https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app](https://684a1562dc8bb429a2b7a9eb--velvety-nasturtium-55678b.netlify.app)]([https://684a11e1b5a6be1a4f5120e2--velvety-nasturtium-55678b.netlify.app](https://684a1562dc8bb429a2b7a9eb--velvety-nasturtium-55678b.netlify.app))
 
 ---
 
